@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Set the parameters
-N     = 100000       # number of time steps
+N     = 1000      # number of time steps
 dt    = 100 / N   # time step
 omg   = 5.0       # natural frequency \omega = \sqrt{k/m}
 f     = 1.0       # F/m
